@@ -8,13 +8,13 @@ for (let i = 0; i < logo.length; i++) {
       "https://mohamed-gp.github.io/Internal_Hacathon/index.html";
   };
 }
-for (let i = 0; i < login.length; i++) {
-  login[i].onclick = function () {
-    window.location.assign(
-      "https://mohamed-gp.github.io/Internal_Hacathon/login.html"
-    );
-  };
-}
+// for (let i = 0; i < login.length; i++) {
+//   login[i].onclick = function () {
+//     window.location.assign(
+//       "https://mohamed-gp.github.io/Internal_Hacathon/login.html"
+//     );
+//   };
+// }
 
 let joinUs = document.querySelectorAll(".join-us");
 
