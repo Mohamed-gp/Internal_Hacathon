@@ -28,5 +28,3 @@ for (let i = 0; i < signUp.length; i++) {
     window.location.assign("../signup.html");
   };
 }
-
-
