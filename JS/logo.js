@@ -4,7 +4,7 @@ let login = document.querySelectorAll(".login");
 for (let i = 0; i < logo.length; i++) {
   logo[i].style.cursor = "pointer";
   logo[i].onclick = function () {
-    window.location.assign("../index.html");
+    window.location.href = "https://mohamed-gp.github.io/Internal_Hacathon/"
   };
 }
 for (let i = 0; i < login.length; i++) {
